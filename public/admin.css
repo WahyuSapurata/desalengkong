@@ -1,0 +1,15 @@
+.card-header {
+  background-color: #95cd41;
+}
+.alert {
+  background-color: #96ceb4;
+}
+.card-header {
+  background-color: #95cd41;
+  opacity: 0.89;
+}
+.img {
+  height: 200px;
+  width: 250px;
+  border-radius: 5px;
+}
